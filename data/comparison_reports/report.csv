@@ -1,0 +1,78 @@
+Model,Prompt,Response,Timestamp
+chatgpt,"give list of players who secured gold medal in previous 
+olympics 
+","Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: OPEN_API*********************************************************************************************************************************************************************N2IA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",2026-01=07 10:0603
+gemini,"give list of players who secured gold medal in previous 
+olympics 
+","The term ""previous Olympics"" can refer to many Games, but assuming you're primarily interested in the most recent Summer Olympics, which were the **Tokyo 2020 Games** (held in 2021 due to the pandemic), here's a list of some prominent gold medalists.
+
+It's important to note that *hundreds* of athletes win gold medals across numerous sports, so this is just a selection of notable individual and team achievements:
+
+**Athletics (Track & Field):**
+*   **Elaine Thompson-Herah** (Jamaica) - Women's 100m, 200m, 4x100m Relay (historic sprint treble)
+*   **Karsten Warholm** (Norway) - Men's 400m Hurdles (world record)
+*   **Sifan Hassan** (Netherlands) - Women's 5000m, 10,000m (also bronze in 1500m)
+*   **Jakob Ingebrigtsen** (Norway) - Men's 1500m
+*   **Mondo Duplantis** (Sweden) - Men's Pole Vault
+
+**Swimming:**
+*   **Caeleb Dressel** (USA) - Men's 50m Freestyle, 100m Freestyle, 100m Butterfly, 4x100m Freestyle Relay, 4x100m Medley Relay (5 gold medals)
+*   **Emma McKeon** (Australia) - Women's 50m Freestyle, 100m Freestyle, 4x100m Freestyle Relay, 4x100m Medley Relay (4 gold, 3 bronze – most decorated athlete in Tokyo)
+*   **Katie Ledecky** (USA) - Women's 800m Freestyle, 1500m Freestyle
+
+**Gymnastics:**
+*   **Daiki Hashimoto** (Japan) - Men's All-Around, Men's Horizontal Bar
+*   **Rebeca Andrade** (Brazil) - Women's Vault (first Olympic gymnastics gold for Brazil)
+
+**Weightlifting:**
+*   **Hidilyn Diaz** (Philippines) - Women's 55kg (first ever Olympic gold medal for the Philippines)
+
+**Skateboarding (Debut Sport):**
+*   **Yuto Horigome** (Japan) - Men's Street
+*   **Sakura Yosozumi** (Japan) - Women's Park
+
+**Other Notable Individual Achievements:**
+*   **Lee Kiefer** (USA, Fencing) - Women's Individual Foil
+*   **Anna Kiesenhofer** (Austria, Cycling) - Women's Road Race
+*   **Alexander Zverev** (Germany, Tennis) - Men's Singles
+*   **Jade Carey** (USA, Gymnastics) - Women's Floor Exercise
+
+**Notable Team Gold Medals:**
+*   **USA Men's Basketball Team**
+*   **USA Women's Basketball Team**
+*   **Brazil Men's Football Team**
+*   **Canada Women's Football Team**
+
+If you have a specific sport, country, or even an earlier Olympics in mind (e.g., Rio 2016, London 2012), please let me know, and I can try to provide more targeted information!",2026-01=07 10:0603
+llama,"give list of players who secured gold medal in previous 
+olympics 
+","Here's a list of some notable players who secured gold medals in previous Olympics:
+
+**Basketball:**
+
+1. LeBron James (USA) - 2012 London Olympics
+2. Kobe Bryant (USA) - 2008 Beijing Olympics
+3. Michael Jordan (USA) - 1992 Barcelona Olympics
+4. Dirk Nowitzki (Germany) - 2002 Salt Lake City Olympics
+5. Steve Nash (Canada) - 2012 London Olympics
+
+**Football (Soccer):**
+
+1. Lionel Messi (Argentina) - 2008 Beijing Olympics
+2. Cristiano Ronaldo (Portugal) - 2008 Beijing Olympics
+3. Andres Iniesta (Spain) - 2008 Beijing Olympics
+4. Andres Guardado (Mexico) - 2012 London Olympics
+5. David Villa (Spain) - 2008 Beijing Olympics
+
+**Swimming:**
+
+1. Michael Phelps (USA) - 2004 Athens Olympics, 2008 Beijing Olympics, 2012 London Olympics
+2. Katie Ledecky (USA) - 2016 Rio Olympics
+3. Ryan Murphy (USA) - 2016 Rio Olympics
+4. Caeleb Dressel (USA) - 2016 Rio Olympics
+5. Adam Peaty (Great Britain) - 2016 Rio Olympics
+
+**Gymnastics:**
+
+1. Simone Biles (USA) - 2016 Rio Olympics
+2. Kohei Uchimura",2026-01=07 10:0603
